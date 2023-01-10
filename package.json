@@ -1,0 +1,19 @@
+{
+  "name": "actafi-tokenlists",
+  "version": "1.0.0",
+  "description": "ActaFi Swap TokenLists",
+  "main": "index.js",
+  "repository": "git@github.com:ActaFi/actafi-tokenlists.git",
+  "author": "Laurynas Antanavičius <laurynas@actafi.org>",
+  "license": "MIT",
+  "scripts": {
+    "format": "ts-node utils/formatter.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
