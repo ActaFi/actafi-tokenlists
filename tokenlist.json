@@ -196,7 +196,7 @@
       "decimals": 18,
       "name": "Hon Token",
       "symbol": "HON",
-      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo.png"
     },
     {
       "chainId": 43114,
@@ -212,7 +212,7 @@
       "decimals": 18,
       "name": "FIRE",
       "symbol": "FIRE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo.png"
     },
     {
       "chainId": 43114,
@@ -652,7 +652,7 @@
       "decimals": 18,
       "name": "Chainlink",
       "symbol": "LINK.e",
-      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x5947BB275c521040051D82396192181b413227A3/logo.png"
     },
     {
       "chainId": 43114,
@@ -1372,7 +1372,7 @@
       "decimals": 18,
       "name": "Splash Token",
       "symbol": "SPLASH",
-      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x4ec58f9D205F9c919920313932cc71EC68d123C7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xE16253892F126D068E711C2fdde6DB56969dBCf6/logo.png"
     },
     {
       "chainId": 43114,
