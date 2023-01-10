@@ -46,10 +46,23 @@ function checkImage() {
   }
 }
 
+async function checkImageLoads() {
+  const tokens: Token[] = tokenList.tokens
+  for (let i = 0; i < tokens.length; i++) {
+    const token = tokens[i];
+    const res = await fetch(token.logoURI, { method: 'HEAD' })
+    if (!res.ok) {
+      console.log('image does not load', token.name, token.chainId, token.address);
+    }
+  }
+}
+
 function main() {
   console.log('checking duplicates...')
   checkDuplicates()
   console.log('checking images...')
   checkImage()
+  console.log('checking images load...')
+  checkImageLoads()
 }
 main()
