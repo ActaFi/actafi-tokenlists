@@ -864,11 +864,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347",
+      "address": "0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1",
       "decimals": 8,
       "name": "TOK",
       "symbol": "TOK",
-      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x397bbd6a0e41bdf4c3f971731e180db8ad06ebc1/logo.png"
     },
     {
       "chainId": 43114,
