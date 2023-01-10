@@ -1,6 +1,6 @@
 {
   "name": "ActaFi Swap Default",
-  "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x99e08FC6905fFF3c1291D479ce605B3410862465/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x99e08FC6905fFF3c1291D479ce605B3410862465/logo.png",
   "keywords": [
     "avalanche",
     "defi",
@@ -16,7 +16,7 @@
   "tokens": [
     {
       "chainId": 43113,
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x99e08FC6905fFF3c1291D479ce605B3410862465/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x99e08FC6905fFF3c1291D479ce605B3410862465/logo.png",
       "name": "ACTA Token",
       "symbol": "ACTA",
       "address": "0x99e08FC6905fFF3c1291D479ce605B3410862465",
@@ -116,7 +116,7 @@
       "decimals": 18,
       "name": "JoeHatToken",
       "symbol": "HAT",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x82FE038Ea4b50f9C957da326C412ebd73462077C/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x82FE038Ea4b50f9C957da326C412ebd73462077C/logo.png"
     },
     {
       "chainId": 43114,
@@ -124,7 +124,7 @@
       "decimals": 18,
       "name": "Magic Internet Money",
       "symbol": "MIM",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
     },
     {
       "chainId": 43114,
@@ -132,7 +132,7 @@
       "decimals": 18,
       "name": "Synapse",
       "symbol": "SYN",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251/logo.png"
     },
     {
       "chainId": 43114,
@@ -140,7 +140,7 @@
       "decimals": 18,
       "name": "Beefy Finance",
       "symbol": "BIFI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xd6070ae98b8069de6B494332d1A1a81B6179D960/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xd6070ae98b8069de6B494332d1A1a81B6179D960/logo.png"
     },
     {
       "chainId": 43114,
@@ -148,7 +148,7 @@
       "decimals": 18,
       "name": "Pendle",
       "symbol": "PENDLE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xfB98B335551a418cD0737375a2ea0ded62Ea213b/logo.png"
     },
     {
       "chainId": 43114,
@@ -156,7 +156,7 @@
       "decimals": 18,
       "name": "Alpha",
       "symbol": "ALPHA.e",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png"
     },
     {
       "chainId": 43114,
@@ -164,7 +164,7 @@
       "decimals": 6,
       "name": "Tether Token",
       "symbol": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7/logo.png"
     },
     {
       "chainId": 43114,
@@ -172,7 +172,7 @@
       "decimals": 18,
       "name": "GMX",
       "symbol": "GMX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x62edc0692BD897D2295872a9FFCac5425011c661/logo.png"
     },
     {
       "chainId": 43114,
@@ -180,7 +180,7 @@
       "decimals": 18,
       "name": "Dragon Crypto Argenti",
       "symbol": "DCAR",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x250bdca7D1845cd543BB55E7D82dcA24D48E9f0F/logo.png"
     },
     {
       "chainId": 43114,
@@ -188,7 +188,7 @@
       "decimals": 18,
       "name": "ThorFi",
       "symbol": "THOR",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79/logo.png"
     },
     {
       "chainId": 43114,
@@ -196,7 +196,7 @@
       "decimals": 18,
       "name": "Hon Token",
       "symbol": "HON",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xed2b42d3c9c6e97e11755bb37df29b6375ede3eb/logo.png"
     },
     {
       "chainId": 43114,
@@ -204,7 +204,7 @@
       "decimals": 18,
       "name": "Domi",
       "symbol": "DOMI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xFc6Da929c031162841370af240dEc19099861d3B/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xFc6Da929c031162841370af240dEc19099861d3B/logo.png"
     },
     {
       "chainId": 43114,
@@ -212,7 +212,7 @@
       "decimals": 18,
       "name": "FIRE",
       "symbol": "FIRE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xfcc6ce74f4cd7edef0c5429bb99d38a3608043a5/logo.png"
     },
     {
       "chainId": 43114,
@@ -220,7 +220,7 @@
       "decimals": 18,
       "name": "VaporNodes",
       "symbol": "VPND",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x83a283641C6B4DF383BCDDf807193284C84c5342/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x83a283641C6B4DF383BCDDf807193284C84c5342/logo.png"
     },
     {
       "chainId": 43114,
@@ -228,7 +228,7 @@
       "decimals": 18,
       "name": "Vector",
       "symbol": "VTX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4/logo.png"
     },
     {
       "chainId": 43114,
@@ -236,7 +236,7 @@
       "decimals": 18,
       "name": "Vector PTP",
       "symbol": "xPTP",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x060556209E507d30f2167a101bFC6D256Ed2f3e1/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x060556209E507d30f2167a101bFC6D256Ed2f3e1/logo.png"
     },
     {
       "chainId": 43114,
@@ -244,7 +244,7 @@
       "decimals": 18,
       "name": "Vector JOE",
       "symbol": "zJOE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x769bfeb9fAacD6Eb2746979a8dD0b7e9920aC2A4/logo.png"
     },
     {
       "chainId": 43114,
@@ -252,7 +252,7 @@
       "decimals": 18,
       "name": "Echidna",
       "symbol": "ECD",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xeb8343d5284caec921f035207ca94db6baaacbcd/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xeb8343d5284caec921f035207ca94db6baaacbcd/logo.png"
     },
     {
       "chainId": 43114,
@@ -260,7 +260,7 @@
       "decimals": 18,
       "name": "Echidna PTP",
       "symbol": "ecdPTP",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xb2C5172E5C15aF6aDD1ec92e518A5Ea1c7DeD2ad/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xb2C5172E5C15aF6aDD1ec92e518A5Ea1c7DeD2ad/logo.png"
     },
     {
       "chainId": 43114,
@@ -268,7 +268,7 @@
       "decimals": 18,
       "name": "Pizza",
       "symbol": "PIZZA",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x6121191018BAf067c6Dc6B18D42329447a164F05/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x6121191018BAf067c6Dc6B18D42329447a164F05/logo.png"
     },
     {
       "chainId": 43114,
@@ -276,7 +276,7 @@
       "decimals": 18,
       "name": "FLY",
       "symbol": "FLY",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x78Ea3fef1c1f07348199Bf44f45b803b9B0Dbe28/logo.png"
     },
     {
       "chainId": 43114,
@@ -284,7 +284,7 @@
       "decimals": 18,
       "name": "DegisToken",
       "symbol": "DEG",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png"
     },
     {
       "chainId": 43114,
@@ -292,7 +292,7 @@
       "decimals": 18,
       "name": "ApeCoin",
       "symbol": "APE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x0802d66f029c46E042b74d543fC43B6705ccb4ba/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x0802d66f029c46E042b74d543fC43B6705ccb4ba/logo.png"
     },
     {
       "chainId": 43114,
@@ -300,7 +300,7 @@
       "decimals": 18,
       "name": "New Order",
       "symbol": "NEWO",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x4Bfc90322dD638F81F034517359BD447f8E0235a/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x4Bfc90322dD638F81F034517359BD447f8E0235a/logo.png"
     },
     {
       "chainId": 43114,
@@ -308,7 +308,7 @@
       "decimals": 18,
       "name": "StargateToken",
       "symbol": "STG",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png"
     },
     {
       "chainId": 43114,
@@ -316,7 +316,7 @@
       "decimals": 18,
       "name": "Ripae",
       "symbol": "PAE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9466Ab927611725B9AF76b9F31B2F879Ff14233d/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9466Ab927611725B9AF76b9F31B2F879Ff14233d/logo.png"
     },
     {
       "chainId": 43114,
@@ -324,7 +324,7 @@
       "decimals": 18,
       "name": "YUSD Stablecoin",
       "symbol": "YUSD",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x111111111111ed1D73f860F57b2798b683f2d325/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x111111111111ed1D73f860F57b2798b683f2d325/logo.png"
     },
     {
       "chainId": 43114,
@@ -332,7 +332,7 @@
       "decimals": 18,
       "name": "Yeti Finance",
       "symbol": "YETI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x77777777777d4554c39223C354A05825b2E8Faa3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x77777777777d4554c39223C354A05825b2E8Faa3/logo.png"
     },
     {
       "chainId": 43114,
@@ -340,7 +340,7 @@
       "decimals": 18,
       "name": "Metaderby token",
       "symbol": "DBY",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x5085434227aB73151fAd2DE546210Cbc8663dF96/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x5085434227aB73151fAd2DE546210Cbc8663dF96/logo.png"
     },
     {
       "chainId": 43114,
@@ -348,7 +348,7 @@
       "decimals": 18,
       "name": "Metaderby game token",
       "symbol": "HOOF",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xe0bb6feD446A2dbb27F84D3C27C4ED8EA7603366/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xe0bb6feD446A2dbb27F84D3C27C4ED8EA7603366/logo.png"
     },
     {
       "chainId": 43114,
@@ -356,7 +356,7 @@
       "decimals": 18,
       "name": "Chikn Fert",
       "symbol": "FERT",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9C846D808A41328A209e235B5e3c4E626DAb169E/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9C846D808A41328A209e235B5e3c4E626DAb169E/logo.png"
     },
     {
       "chainId": 43114,
@@ -364,7 +364,7 @@
       "decimals": 18,
       "name": "STEAK",
       "symbol": "STEAK",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674/logo.png"
     },
     {
       "chainId": 43114,
@@ -372,7 +372,7 @@
       "decimals": 8,
       "name": "Bitcoin",
       "symbol": "BTC.b",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x152b9d0FdC40C096757F570A51E494bd4b943E50/logo.png"
     },
     {
       "chainId": 43114,
@@ -380,7 +380,7 @@
       "decimals": 18,
       "name": "Openblox Token",
       "symbol": "OBX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xcCf719c44e2C36E919335692E89d22Cf13D6aaEB/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xcCf719c44e2C36E919335692E89d22Cf13D6aaEB/logo.png"
     },
     {
       "chainId": 43114,
@@ -388,7 +388,7 @@
       "decimals": 18,
       "name": "RunBlox Token",
       "symbol": "RUX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xA1AfCC973d44cE1C65a21D9e644CB82489d26503/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xA1AfCC973d44cE1C65a21D9e644CB82489d26503/logo.png"
     },
     {
       "chainId": 43114,
@@ -396,7 +396,7 @@
       "decimals": 18,
       "name": "hJoe v2",
       "symbol": "hJoe",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xe7250b05bd8DEE615ecC681eda1196aDD5156F2B/logo.png"
     },
     {
       "chainId": 43114,
@@ -404,7 +404,7 @@
       "decimals": 18,
       "name": "Curve DAO Token",
       "symbol": "CRV",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x47536F17F4fF30e64A96a7555826b8f9e66ec468/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x47536F17F4fF30e64A96a7555826b8f9e66ec468/logo.png"
     },
     {
       "chainId": 43114,
@@ -412,7 +412,7 @@
       "decimals": 18,
       "name": "Frozen Walrus Share",
       "symbol": "WSHARE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6/logo.png"
     },
     {
       "chainId": 43114,
@@ -420,7 +420,7 @@
       "decimals": 18,
       "name": "Grape Finance",
       "symbol": "GRAPE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png"
     },
     {
       "chainId": 43114,
@@ -428,7 +428,7 @@
       "decimals": 18,
       "name": "pAVAX",
       "symbol": "pAVAX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x6ca558bd3eaB53DA1B25aB97916dd14bf6CFEe4E/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x6ca558bd3eaB53DA1B25aB97916dd14bf6CFEe4E/logo.png"
     },
     {
       "chainId": 43114,
@@ -436,7 +436,7 @@
       "decimals": 9,
       "name": "Thors Mead V2",
       "symbol": "MEAD",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x44a45a9BaEb63c6ea4860ecf9ac5732c330C4d4E/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x44a45a9BaEb63c6ea4860ecf9ac5732c330C4d4E/logo.png"
     },
     {
       "chainId": 43114,
@@ -444,7 +444,7 @@
       "decimals": 18,
       "name": "Wine Shares",
       "symbol": "WINE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xC55036B5348CfB45a932481744645985010d3A44/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xC55036B5348CfB45a932481744645985010d3A44/logo.png"
     },
     {
       "chainId": 43114,
@@ -452,7 +452,7 @@
       "decimals": 18,
       "name": "Wrapped Ether (Wormhole)",
       "symbol": "WETH",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x8b82A291F83ca07Af22120ABa21632088fC92931/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x8b82A291F83ca07Af22120ABa21632088fC92931/logo.png"
     },
     {
       "chainId": 43114,
@@ -460,7 +460,7 @@
       "decimals": 18,
       "name": "Wrapped Matic (Wormhole)",
       "symbol": "WMATIC",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb/logo.png"
     },
     {
       "chainId": 43114,
@@ -468,7 +468,7 @@
       "decimals": 9,
       "name": "Wrapped SOL (Wormhole)",
       "symbol": "SOL",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F/logo.png"
     },
     {
       "chainId": 43114,
@@ -476,7 +476,7 @@
       "decimals": 18,
       "name": "TrustSwap Token ",
       "symbol": "SWAP.e",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xc7B5D72C836e718cDA8888eaf03707fAef675079/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xc7B5D72C836e718cDA8888eaf03707fAef675079/logo.png"
     },
     {
       "chainId": 43114,
@@ -484,7 +484,7 @@
       "decimals": 18,
       "name": "SmarterCoin",
       "symbol": "SMRTr",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x6D923f688C7FF287dc3A5943CAeefc994F97b290/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x6D923f688C7FF287dc3A5943CAeefc994F97b290/logo.png"
     },
     {
       "chainId": 43114,
@@ -492,7 +492,7 @@
       "decimals": 18,
       "name": "Qi Dao Protocol",
       "symbol": "QI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6/logo.png"
     },
     {
       "chainId": 43114,
@@ -500,7 +500,7 @@
       "decimals": 6,
       "name": "e-Money EUR stablecoin",
       "symbol": "EEUR",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xE1d70994Be12b73E76889412b284A8F19b0DE56d/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xE1d70994Be12b73E76889412b284A8F19b0DE56d/logo.png"
     },
     {
       "chainId": 43114,
@@ -508,7 +508,7 @@
       "decimals": 6,
       "name": "BioFi",
       "symbol": "BioFi",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9366d30FeBA284E62900f6295BC28c9906f33172/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9366d30FeBA284E62900f6295BC28c9906f33172/logo.png"
     },
     {
       "chainId": 43114,
@@ -516,7 +516,7 @@
       "decimals": 18,
       "name": "EverRise",
       "symbol": "RISE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xC17c30e98541188614dF99239cABD40280810cA3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xC17c30e98541188614dF99239cABD40280810cA3/logo.png"
     },
     {
       "chainId": 43114,
@@ -524,7 +524,7 @@
       "decimals": 18,
       "name": "YieldYak gAVAX",
       "symbol": "yyAVAX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xF7D9281e8e363584973F946201b82ba72C965D27/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xF7D9281e8e363584973F946201b82ba72C965D27/logo.png"
     },
     {
       "chainId": 43114,
@@ -532,7 +532,7 @@
       "decimals": 18,
       "name": "Kingdom Gold Coin",
       "symbol": "KGC",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x54a77F27D2346c3A8F5B43A501434f0f21f33e3C/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x54a77F27D2346c3A8F5B43A501434f0f21f33e3C/logo.png"
     },
     {
       "chainId": 43114,
@@ -540,7 +540,7 @@
       "decimals": 18,
       "name": "EVO",
       "symbol": "EVO",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x42006Ab57701251B580bDFc24778C43c9ff589A1/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x42006Ab57701251B580bDFc24778C43c9ff589A1/logo.png"
     },
     {
       "chainId": 43114,
@@ -548,7 +548,7 @@
       "decimals": 18,
       "name": "Chronicum",
       "symbol": "CHRO",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B/logo.png"
     },
     {
       "chainId": 43114,
@@ -556,7 +556,7 @@
       "decimals": 18,
       "name": "Colony Avalanche Index",
       "symbol": "CAI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0/logo.png"
     },
     {
       "chainId": 43114,
@@ -564,7 +564,7 @@
       "decimals": 18,
       "name": "DeFiato",
       "symbol": "DFIAT",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xAfE3d2A31231230875DEe1fa1eEF14a412443d22/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xAfE3d2A31231230875DEe1fa1eEF14a412443d22/logo.png"
     },
     {
       "chainId": 43114,
@@ -572,7 +572,7 @@
       "decimals": 18,
       "name": "frozenwalrus.finance",
       "symbol": "WLRS",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x395908aeb53d33A9B8ac35e148E9805D34A555D3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x395908aeb53d33A9B8ac35e148E9805D34A555D3/logo.png"
     },
     {
       "chainId": 43114,
@@ -580,7 +580,7 @@
       "decimals": 18,
       "name": "Magic",
       "symbol": "MAGIC",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9A8E0217cD870783c3f2317985C57Bf570969153/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9A8E0217cD870783c3f2317985C57Bf570969153/logo.png"
     },
     {
       "chainId": 43114,
@@ -588,7 +588,7 @@
       "decimals": 18,
       "name": "Yield Yak JOE",
       "symbol": "yyJOE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xe7462905B79370389e8180E300F58f63D35B725F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xe7462905B79370389e8180E300F58f63D35B725F/logo.png"
     },
     {
       "chainId": 43114,
@@ -596,7 +596,7 @@
       "decimals": 18,
       "name": "Cosmic",
       "symbol": "COSMIC",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xe48C74833ce6f18A8e54f73f1D02B8E9f9Ff8Caa/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xe48C74833ce6f18A8e54f73f1D02B8E9f9Ff8Caa/logo.png"
     },
     {
       "chainId": 43114,
@@ -604,7 +604,7 @@
       "decimals": 18,
       "name": "Royale",
       "symbol": "ROY",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x68EE0D0aad9e1984aF85CA224117E4D20eaF68BE/logo.png"
     },
     {
       "chainId": 43114,
@@ -612,7 +612,7 @@
       "decimals": 18,
       "name": "AGX Coin",
       "symbol": "AGX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x13E7bceFddE72492E656f3fa58baE6029708e673/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x13E7bceFddE72492E656f3fa58baE6029708e673/logo.png"
     },
     {
       "chainId": 43114,
@@ -620,7 +620,7 @@
       "decimals": 18,
       "name": "AUX Coin",
       "symbol": "AUX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x68327a91E79f87F501bC8522fc333FB7A72393cb/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x68327a91E79f87F501bC8522fc333FB7A72393cb/logo.png"
     },
     {
       "chainId": 43114,
@@ -628,7 +628,7 @@
       "decimals": 18,
       "name": "LODE Token",
       "symbol": "LODE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xbBAAA0420D474B34Be197f95A323C2fF3829E811/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xbBAAA0420D474B34Be197f95A323C2fF3829E811/logo.png"
     },
     {
       "chainId": 43114,
@@ -636,7 +636,7 @@
       "decimals": 18,
       "name": "HATCHY",
       "symbol": "HATCHY",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x502580fc390606b47FC3b741d6D49909383c28a9/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x502580fc390606b47FC3b741d6D49909383c28a9/logo.png"
     },
     {
       "chainId": 43114,
@@ -644,7 +644,7 @@
       "decimals": 18,
       "name": "Chikn Worm",
       "symbol": "WORM",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x79BA10485ae46a9436D560D9664369176EC2eB2b/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x79BA10485ae46a9436D560D9664369176EC2eB2b/logo.png"
     },
     {
       "chainId": 43114,
@@ -652,7 +652,7 @@
       "decimals": 18,
       "name": "Chainlink",
       "symbol": "LINK.e",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x5947bb275c521040051d82396192181b413227a3/logo.png"
     },
     {
       "chainId": 43114,
@@ -660,7 +660,7 @@
       "decimals": 18,
       "name": "XGEM",
       "symbol": "WXGEM",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xFa113908f851E6357D8A20e2a18c22113D5755A9/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xFa113908f851E6357D8A20e2a18c22113D5755A9/logo.png"
     },
     {
       "chainId": 43114,
@@ -668,7 +668,7 @@
       "decimals": 18,
       "name": "Avaware",
       "symbol": "AVE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -676,7 +676,7 @@
       "decimals": 18,
       "name": "Cabbage.Cash",
       "symbol": "CABAG",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xdb333724fAE72b4253FC3d44c8270CBBC86d147b/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xdb333724fAE72b4253FC3d44c8270CBBC86d147b/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -684,7 +684,7 @@
       "decimals": 18,
       "name": "YetiSwap",
       "symbol": "YTS",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x488F73cddDA1DE3664775fFd91623637383D6404/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x488F73cddDA1DE3664775fFd91623637383D6404/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -692,7 +692,7 @@
       "decimals": 18,
       "name": "Snowball",
       "symbol": "SNOB",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xC38f41A296A4493Ff429F1238e030924A1542e50/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -700,7 +700,7 @@
       "decimals": 9,
       "name": "Spore",
       "symbol": "SPORE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -708,7 +708,7 @@
       "decimals": 18,
       "name": "PenguinToken",
       "symbol": "PEFI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -716,7 +716,7 @@
       "decimals": 8,
       "name": "Blocknet",
       "symbol": "aaBLOCK",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -724,7 +724,7 @@
       "decimals": 18,
       "name": "LydiaFinance Token",
       "symbol": "LYD",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -732,7 +732,7 @@
       "decimals": 18,
       "name": "AVME",
       "symbol": "AVME",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -740,7 +740,7 @@
       "decimals": 18,
       "name": "Gondola",
       "symbol": "GDL",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -748,7 +748,7 @@
       "decimals": 18,
       "name": "Cycle Token",
       "symbol": "CYCLE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x81440C939f2C1E34fc7048E518a637205A632a74/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x81440C939f2C1E34fc7048E518a637205A632a74/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -756,7 +756,7 @@
       "decimals": 18,
       "name": "Canary",
       "symbol": "CNR",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -764,7 +764,7 @@
       "decimals": 18,
       "name": "Sherpa",
       "symbol": "SHERPA",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -772,7 +772,7 @@
       "decimals": 18,
       "name": "Dypius",
       "symbol": "DYP",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -780,7 +780,7 @@
       "decimals": 18,
       "name": "Weble Ecosystem Token",
       "symbol": "WET",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -788,7 +788,7 @@
       "decimals": 18,
       "name": "Wrapped AllianceBlock Token",
       "symbol": "WALBT",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -796,7 +796,7 @@
       "decimals": 18,
       "name": "TundraToken",
       "symbol": "TUNDRA",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -804,7 +804,7 @@
       "decimals": 18,
       "name": "Gaj Finance",
       "symbol": "GAJ",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -812,7 +812,7 @@
       "decimals": 18,
       "name": "TEDDY",
       "symbol": "TEDDY",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -820,7 +820,7 @@
       "decimals": 18,
       "name": "MarginSwap",
       "symbol": "MFI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -828,7 +828,7 @@
       "decimals": 18,
       "name": "SHIBAVAX",
       "symbol": "SHIBX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -836,7 +836,7 @@
       "decimals": 18,
       "name": "Frax Share",
       "symbol": "FXS",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -844,7 +844,7 @@
       "decimals": 18,
       "name": "Blue Token",
       "symbol": "BLUE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -852,7 +852,7 @@
       "decimals": 18,
       "name": "YAY Games",
       "symbol": "YAY",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -860,7 +860,7 @@
       "decimals": 6,
       "name": "Avaxtars Token",
       "symbol": "AVXT",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -868,7 +868,7 @@
       "decimals": 8,
       "name": "TOK",
       "symbol": "TOK",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xae9d2385Ff2E2951Dd4fA061e74c4d3deDD24347/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -876,7 +876,7 @@
       "decimals": 9,
       "name": "Good Bridging",
       "symbol": "GB",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x90842eb834cFD2A1DB0b1512B254a18E4D396215/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -884,7 +884,7 @@
       "decimals": 18,
       "name": "OpenOcean",
       "symbol": "OOE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x0ebd9537A25f56713E34c45b38F421A1e7191469/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -892,7 +892,7 @@
       "decimals": 18,
       "name": "Vee",
       "symbol": "VEE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -900,7 +900,7 @@
       "decimals": 18,
       "name": "Ape In",
       "symbol": "APEIN",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x938FE3788222A74924E062120E7BFac829c719Fb/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x938FE3788222A74924E062120E7BFac829c719Fb/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -908,7 +908,7 @@
       "decimals": 18,
       "name": "Iron Finance ICE Token",
       "symbol": "IronICE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xfC108f21931576a21D0b4b301935DAc80d9E5086/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -916,7 +916,7 @@
       "decimals": 18,
       "name": "WOWSwap",
       "symbol": "WOW",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -924,7 +924,7 @@
       "decimals": 18,
       "name": "OrcaDAO",
       "symbol": "ORCA",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x8B1d98A91F853218ddbb066F20b8c63E782e2430/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -932,7 +932,7 @@
       "decimals": 18,
       "name": "INSUR Token",
       "symbol": "INSUR",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -940,7 +940,7 @@
       "decimals": 18,
       "name": "Ankr Avalanche Reward Earning Bond",
       "symbol": "aAVAXb",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -948,7 +948,7 @@
       "decimals": 18,
       "name": "Boo Finance Token",
       "symbol": "BOOFI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -956,7 +956,7 @@
       "decimals": 18,
       "name": "Hurricane Token",
       "symbol": "HCT",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x45C13620B55C35A5f539d26E88247011Eb10fDbd/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -964,7 +964,7 @@
       "decimals": 18,
       "name": "ROCO",
       "symbol": "ROCO",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -972,7 +972,7 @@
       "decimals": 18,
       "name": "IMX",
       "symbol": "IMX.a",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -980,7 +980,7 @@
       "decimals": 18,
       "name": "Orbs",
       "symbol": "ORBS",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -988,7 +988,7 @@
       "decimals": 18,
       "name": "Maximus",
       "symbol": "MAXI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x885d748C00A279B67A7749EC6b03301700dd0455/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x885d748C00A279B67A7749EC6b03301700dd0455/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -996,7 +996,7 @@
       "decimals": 9,
       "name": "Maximizer",
       "symbol": "MAXI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x7C08413cbf02202a1c13643dB173f2694e0F73f0/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1004,7 +1004,7 @@
       "decimals": 18,
       "name": "Poly-Peg COOK",
       "symbol": "COOK",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x637afeff75ca669fF92e4570B14D6399A658902f/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x637afeff75ca669fF92e4570B14D6399A658902f/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1012,7 +1012,7 @@
       "decimals": 18,
       "name": "NFTrade Token",
       "symbol": "NFTD",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1020,7 +1020,7 @@
       "decimals": 6,
       "name": "NFTSoccerGames",
       "symbol": "NFSG",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xf69c2fcd9128d49DfA22348C69177f9380438eB8/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1028,7 +1028,7 @@
       "decimals": 18,
       "name": "Skill Token",
       "symbol": "SKILL",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x483416eB3aFA601B9C6385f63CeC0C82B6aBf1fb/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1036,7 +1036,7 @@
       "decimals": 18,
       "name": "iDeFiYieldProtocol",
       "symbol": "iDYP",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1044,7 +1044,7 @@
       "decimals": 6,
       "name": "BiAltin",
       "symbol": "GLDB",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xcA220F1e486A8e35d6F1DCD62073Ad8DD04659ED/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1052,7 +1052,7 @@
       "decimals": 18,
       "name": "RaceX",
       "symbol": "RACEX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x7086e045b78E1e72F741F25231c08d238812CF8a/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1060,7 +1060,7 @@
       "decimals": 18,
       "name": "Tomb",
       "symbol": "TOMB",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1068,7 +1068,7 @@
       "decimals": 18,
       "name": "Kitty",
       "symbol": "KITTY",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xbca7f1998Dc9FFB70b086543a808960a460aBcA7/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1076,7 +1076,7 @@
       "decimals": 18,
       "name": "MilkyWay Token by SpaceSwap v2",
       "symbol": "MILK2",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x721C299E6BF7D6a430d9bEA3364Ea197314bcE09/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1084,7 +1084,7 @@
       "decimals": 18,
       "name": "SHAKE token by SpaceSwap v2",
       "symbol": "SHAKE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xC1d02E488a9Ce2481BFdcd797d5373Dd2E70a9C2/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1092,7 +1092,7 @@
       "decimals": 18,
       "name": "Defrost Finance Token",
       "symbol": "MELT",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1100,7 +1100,7 @@
       "decimals": 18,
       "name": "IceToken",
       "symbol": "ICE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xe0Ce60AF0850bF54072635e66E79Df17082A1109/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1108,7 +1108,7 @@
       "decimals": 18,
       "name": "HERMES",
       "symbol": "HERMES",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1116,7 +1116,7 @@
       "decimals": 18,
       "name": "HERMES Shares",
       "symbol": "HSHARES",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1124,7 +1124,7 @@
       "decimals": 18,
       "name": "Dogeon Token",
       "symbol": "DON",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1132,7 +1132,7 @@
       "decimals": 18,
       "name": "LOOT",
       "symbol": "LOOT",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x7f041ce89A2079873693207653b24C15B5e6A293/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x7f041ce89A2079873693207653b24C15B5e6A293/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1140,7 +1140,7 @@
       "decimals": 18,
       "name": "ANGLE",
       "symbol": "ANGLE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1148,7 +1148,7 @@
       "decimals": 18,
       "name": "MetaBrands",
       "symbol": "MAGE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1156,7 +1156,7 @@
       "decimals": 18,
       "name": "Hertz Token",
       "symbol": "HTZ",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9C8E99eb130AED653Ef90fED709D9C3E9cC8b269/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1164,7 +1164,7 @@
       "decimals": 18,
       "name": "Hoopoe Ventures",
       "symbol": "HOOP",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x0fEc6d8A84A85b79A1FFE0E28c1902E08b653EFE/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1172,7 +1172,7 @@
       "decimals": 6,
       "name": "Axelar Wrapped LUNA",
       "symbol": "LUNA",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1180,7 +1180,7 @@
       "decimals": 18,
       "name": "Kassandra",
       "symbol": "KACY",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1188,7 +1188,7 @@
       "decimals": 18,
       "name": "Catoshi",
       "symbol": "CATS",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x402FD175049e95CeF2cC9ca1FECdb6d9736e690d/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1196,7 +1196,7 @@
       "decimals": 18,
       "name": "ArgonToken",
       "symbol": "ARGON",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x1fE4751d9bDabaC8D90067056cB45AB6823d2C12/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1204,7 +1204,7 @@
       "decimals": 6,
       "name": "DGC Token",
       "symbol": "DGC",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x7F29e7086453ed97283893E763aE0989F4B70f8d/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1212,7 +1212,7 @@
       "decimals": 6,
       "name": "ENXT Token",
       "symbol": "ENXT",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x164334Ed9E63FbEdC8B52E6dbD408Af4F051419f/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1220,7 +1220,7 @@
       "decimals": 18,
       "name": "Akitavax",
       "symbol": "AKITAX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1228,7 +1228,7 @@
       "decimals": 18,
       "name": "YDragon",
       "symbol": "YDR",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xf03Dccaec9A28200A6708c686cf0b8BF26dDc356/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1236,7 +1236,7 @@
       "decimals": 18,
       "name": "HonToken",
       "symbol": "HON",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1244,7 +1244,7 @@
       "decimals": 12,
       "name": "SwapXI Token",
       "symbol": "SWAPXI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x312eE43Df66d1Fd1EA28e5b28F355Da84dCA13C2/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1252,7 +1252,7 @@
       "decimals": 18,
       "name": "FIRE",
       "symbol": "FIRE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1260,7 +1260,7 @@
       "decimals": 18,
       "name": "BRIBE",
       "symbol": "BRIBE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xCe2fbed816E320258161CeD52c2d0CEBcdFd8136/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1268,7 +1268,7 @@
       "decimals": 18,
       "name": "BavaToken",
       "symbol": "BAVA",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xe19A1684873faB5Fb694CfD06607100A632fF21c/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1276,7 +1276,7 @@
       "decimals": 18,
       "name": "Chainlink Token",
       "symbol": "LINK.e",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x5947BB275c521040051D82396192181b413227A3/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x5947BB275c521040051D82396192181b413227A3/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1284,7 +1284,7 @@
       "decimals": 18,
       "name": "SushiToken",
       "symbol": "SUSHI.e",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1292,7 +1292,7 @@
       "decimals": 18,
       "name": "Arable Protocol",
       "symbol": "ACRE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x00EE200Df31b869a321B10400Da10b561F3ee60d/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1300,7 +1300,7 @@
       "decimals": 18,
       "name": "DefiLaunch Token",
       "symbol": "DLAUNCH",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x0659133127749Cc0616Ed6632912ddF7cc8D7545/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1308,7 +1308,7 @@
       "decimals": 18,
       "name": "Augmented Finance",
       "symbol": "AGF",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1316,7 +1316,7 @@
       "decimals": 18,
       "name": "OddzToken",
       "symbol": "ODDZ",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1324,7 +1324,7 @@
       "decimals": 18,
       "name": "KING",
       "symbol": "KING",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xf3EC49ACb3084618121741e4BBB20996D383E9b2/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1332,7 +1332,7 @@
       "decimals": 18,
       "name": "King Shares",
       "symbol": "KSHARE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x94d649E017625dE1Aa04733aA046dE0161DF18eF/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1340,7 +1340,7 @@
       "decimals": 18,
       "name": "RICH",
       "symbol": "RICH",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x4960bc6032351ab87627B8F36b37B4938A44C7eF/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1348,7 +1348,7 @@
       "decimals": 18,
       "name": "ZeroSwapToken",
       "symbol": "ZEE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x44754455564474A89358B2C2265883DF993b12F0/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x44754455564474A89358B2C2265883DF993b12F0/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1356,7 +1356,7 @@
       "decimals": 18,
       "name": "DEAPCOIN",
       "symbol": "DEP",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xD4d026322C88C2d49942A75DfF920FCfbC5614C1/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1364,7 +1364,7 @@
       "decimals": 18,
       "name": "BUSINESSES",
       "symbol": "BUSINESSES",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x15c841043e13fFAA9a99FabEa236D40F45615623/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x15c841043e13fFAA9a99FabEa236D40F45615623/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1372,7 +1372,7 @@
       "decimals": 18,
       "name": "dolla",
       "symbol": "DOLLA",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x4B322765D761984C0f9E72200B62a9b445F38caC/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x4B322765D761984C0f9E72200B62a9b445F38caC/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1380,7 +1380,7 @@
       "decimals": 18,
       "name": "NitroNetwork",
       "symbol": "ncash",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xc69Eba65e87889f0805dB717Af06797055A0BA07/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xc69Eba65e87889f0805dB717Af06797055A0BA07/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1388,7 +1388,7 @@
       "decimals": 18,
       "name": "Omlira",
       "symbol": "OML",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x979fFD8eEd7a43629eA29581DF4Bfe2b3F224e47/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x979fFD8eEd7a43629eA29581DF4Bfe2b3F224e47/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1396,7 +1396,7 @@
       "decimals": 18,
       "name": "Splash Token",
       "symbol": "SPLASH",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x4ec58f9D205F9c919920313932cc71EC68d123C7/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x4ec58f9D205F9c919920313932cc71EC68d123C7/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1404,7 +1404,7 @@
       "decimals": 18,
       "name": "Wave Token",
       "symbol": "WAVE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1412,7 +1412,7 @@
       "decimals": 18,
       "name": "EMERALD",
       "symbol": "EM",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x97E7044ab98B7891546485f5f66EDcc2F58be106/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x97E7044ab98B7891546485f5f66EDcc2F58be106/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1420,7 +1420,7 @@
       "decimals": 6,
       "name": "Axelar Wrapped ATOM",
       "symbol": "axlATOM",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x80D18b1c9Ab0c9B5D6A6d5173575417457d00a12/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1428,7 +1428,7 @@
       "decimals": 18,
       "name": "KyteOne",
       "symbol": "KTE",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x056D114fF1e01dE3BCA30F0Efa3655DF42880e5B/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1436,7 +1436,7 @@
       "decimals": 18,
       "name": "Spice",
       "symbol": "SFI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xd13eB71515DC48a8a367D12F844e5737bab415dF/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xd13eB71515DC48a8a367D12F844e5737bab415dF/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1444,7 +1444,7 @@
       "decimals": 18,
       "name": "STEP.APP",
       "symbol": "FITFI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1452,7 +1452,7 @@
       "decimals": 18,
       "name": "Zeus Node Finance",
       "symbol": "ZEUS",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x4156F18bF7C1ef04248632C66Aa119De152D8f2E/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x4156F18bF7C1ef04248632C66Aa119De152D8f2E/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1460,7 +1460,7 @@
       "decimals": 6,
       "name": "BiLira",
       "symbol": "TRYB",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1468,7 +1468,7 @@
       "decimals": 18,
       "name": "Binance USD",
       "symbol": "BUSD.e",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1476,7 +1476,7 @@
       "decimals": 18,
       "name": "TSD Stablecoin",
       "symbol": "TSD",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1484,7 +1484,7 @@
       "decimals": 18,
       "name": "Avaware USD",
       "symbol": "AUSD",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1492,7 +1492,7 @@
       "decimals": 18,
       "name": "AVAI",
       "symbol": "AVAI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1500,7 +1500,7 @@
       "decimals": 18,
       "name": "Frax",
       "symbol": "FRAX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1508,7 +1508,7 @@
       "decimals": 18,
       "name": "miMatic",
       "symbol": "MAI",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x5c49b268c9841AFF1Cc3B0a418ff5c3442eE3F3b/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1516,7 +1516,7 @@
       "decimals": 18,
       "name": "Defrost Finance H2O",
       "symbol": "H2O",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x026187BdbC6b751003517bcb30Ac7817D5B766f8/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1524,7 +1524,7 @@
       "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1532,7 +1532,7 @@
       "decimals": 18,
       "name": "agEUR",
       "symbol": "agEUR",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x6feFd97F328342a8A840546A55FDcfEe7542F9A8/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1540,7 +1540,7 @@
       "decimals": 6,
       "name": "Axelar Wrapped UST",
       "symbol": "axlUST",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x260Bbf5698121EB85e7a74f2E45E16Ce762EbE11/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1548,7 +1548,7 @@
       "decimals": 18,
       "name": "Moremoney USD",
       "symbol": "MONEY",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x0f577433Bf59560Ef2a79c124E9Ff99fCa258948/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1556,7 +1556,7 @@
       "decimals": 18,
       "name": "JPY Coin",
       "symbol": "JPYC",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1564,7 +1564,7 @@
       "decimals": 6,
       "name": "Wormhole UST",
       "symbol": "UST",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1572,7 +1572,7 @@
       "decimals": 18,
       "name": "Rugpull Prevention",
       "symbol": "RUGPULL",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1580,7 +1580,7 @@
       "decimals": 18,
       "name": "AxialToken",
       "symbol": "AXIAL",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xcF8419A615c57511807236751c0AF38Db4ba3351/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xcF8419A615c57511807236751c0AF38Db4ba3351/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1588,7 +1588,7 @@
       "decimals": 4,
       "name": "BRZ",
       "symbol": "BRZ",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x491a4eB4f1FC3BfF8E1d2FC856a6A46663aD556f/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1596,7 +1596,7 @@
       "decimals": 18,
       "name": "XETA",
       "symbol": "XETA",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x827eb4bada6cb76c90f887969b3fe5faD585FFe3/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x827eb4bada6cb76c90f887969b3fe5faD585FFe3/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1604,7 +1604,7 @@
       "decimals": 18,
       "name": "Unbound Dollar",
       "symbol": "UND",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x6B56Ec4a92765203508FB40feC9fa23E549B705a/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x6B56Ec4a92765203508FB40feC9fa23E549B705a/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1612,7 +1612,7 @@
       "decimals": 18,
       "name": "Unbound",
       "symbol": "UNB",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xF915fDDa4c882731C0456a4214548Cd13A822886/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xF915fDDa4c882731C0456a4214548Cd13A822886/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1620,7 +1620,7 @@
       "decimals": 18,
       "name": "DegenX",
       "symbol": "DGNX",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x51e48670098173025C477D9AA3f0efF7BF9f7812/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x51e48670098173025C477D9AA3f0efF7BF9f7812/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1628,7 +1628,7 @@
       "decimals": 18,
       "name": "Decentralized USD",
       "symbol": "USDD",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xcf799767d366d789e8B446981C2D578E241fa25c/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xcf799767d366d789e8B446981C2D578E241fa25c/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1636,7 +1636,7 @@
       "decimals": 18,
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39/logo_24.png"
     },
     {
       "chainId": 43114,
@@ -1644,7 +1644,7 @@
       "decimals": 18,
       "name": "MSTR Token",
       "symbol": "MSTR",
-      "logoURI": "https://raw.githubusercontent.com/actafi/tokenlists/main/logos/0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9/logo_24.png"
+      "logoURI": "https://raw.githubusercontent.com/actafi/actafi-tokenlists/main/logos/0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9/logo_24.png"
     }
   ]
 }
