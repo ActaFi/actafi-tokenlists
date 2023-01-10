@@ -23,14 +23,20 @@ function checkDuplicates() {
   const newList: Token[] = [];
   for (let i = 0; i < tokens.length; i++) {
     const token = tokens[i];
-    const duplicates = tokenList.tokens.filter((t: Token) => t.address === token.address && t.chainId === token.chainId);
-    if (duplicates.length > 1) {
-      console.log('duplicate', token.name, token.chainId, token.address)
+    if (!newList[token.address.toLowerCase()]) {
+      newList[token.address.toLowerCase()] = {
+        name: token.name,
+        address: token.address,
+        symbol: token.symbol,
+        decimals: token.decimals,
+        chainId: token.chainId,
+        logoURI: token.logoURI
+      };
     } else {
-      newList.push(token)
+      console.log('duplicate', token.name, token.chainId, token.address)
     }
   }
-  let data = JSON.stringify({...tokenList, tokens: newList});
+  let data = JSON.stringify({...tokenList, tokens: Object.values(newList)});
   writeFileSync('out/tokenListCleaned.json', data);
 }
 
